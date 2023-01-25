@@ -1,0 +1,32 @@
+h1 {
+    text-align:center;
+}
+
+.row {
+    width: 1000px;
+    height: 200px;
+    margin: 55px;
+    display: flex;
+    background-color: tomato;
+    justify-content: space-evenly;
+    
+}
+.row2 {
+    width: 1000px;
+    height: 200px;
+    margin: 55px;
+    display: flex;
+    background-color: blue;
+    justify-content: space-evenly;
+}
+.row3 {
+    width: 1000px;
+    height: 200px;
+    margin: 55px;
+    display: flex;
+    background-color: green;
+    justify-content: space-around;
+}
+p {
+    text-align: center;
+}
